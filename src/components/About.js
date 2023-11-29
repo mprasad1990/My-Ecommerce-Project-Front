@@ -3,7 +3,7 @@ import React from 'react'
 export default function About() {
   return (
     <>
-      <header className="masthead">
+      <header className="masthead name">
         <div className="container h-100">
           <div className="row h-100 align-items-center mb-5">
             <div className="col-md-6 mt-5">
